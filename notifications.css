@@ -1,0 +1,53 @@
+.NotyW{
+      -webkit-box-shadow: 0px 2px 7px 1px rgba(0, 0, 0, 0.55);
+      -moz-box-shadow:    0px 2px 7px 1px rgba(0, 0, 0, 0.55);
+      box-shadow:   0px 2px 7px 1px rgba(0, 0, 0, .55);
+      -webkit-user-select: none;  /* Chrome all / Safari all */
+      -moz-user-select: none;     /* Firefox all */
+      -ms-user-select: none;      /* IE 10+ */
+      cursor: default;
+   		 	background:white;
+   		 	border-radius:30px 30px;
+   		 	height:40px;
+   		 	text-align:center;
+   		 	position:fixed;
+    		top:-40px; 
+   		 	width:40%;
+   		 	margin:0 30%;
+   		 	font-size:14px;
+   		 	font-weight:bold;
+   		 	font-variant:small-caps;
+   		 	line-height:16px;
+   		 	transition: all 2s;
+   		 	opacity:0;
+   		 }
+.NoDesc{
+   		 	color:#888;
+   		 	font-size:16px;
+   		 	font-weight:200;
+   		 	font-variant:normal;
+   		 	padding-top:4px;
+   		 }
+.NotyW img{
+   		 	position:absolute;
+   		 	left:0; j
+   		 	width:38px;
+   		 	height:38px;
+   		 	padding:1px 1px;
+   		 	border-radius: 100px 100px; 
+   		 }
+.NoRightI{
+   		 	right:0 !important;
+   		 	left:auto !important;
+   		 }
+.NotyB{
+   		 	background:#333;
+   		 	border: 1px #555 solid;
+   		 	color:white;
+   		 }
+@media only screen and (max-width: 458px) {
+					.NotyW{
+ 										width:90%;
+ 										margin: 0 5%;
+ 										}
+}
