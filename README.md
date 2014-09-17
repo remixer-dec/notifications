@@ -24,4 +24,4 @@ action (function) - function , that runs, when user is clicking at the right ico
 You can use not all the parameters.
 ###demo
 [view demo](https://rawgit.com/remixer-dec/notifications/master/test.html)
-![test](http://spicausis.lv/misc/paypal-donate.gif)
+
