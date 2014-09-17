@@ -2,7 +2,7 @@ notifications
 =============
 With this small js&css library you can create notifications on your web pages. 
 It can be a message notification or achivement in your game (i'll do another project for achivement additional features).
-
+Powered by html5, css3 & js. Supported on desktop & mobile devices.
 ####how to install?
 Download the .js & .css files and include them in your html file using next code:
  ```html
@@ -24,3 +24,4 @@ action (function) - function , that runs, when user is clicking at the right ico
 You can use not all the parameters.
 ###demo
 [view demo](https://rawgit.com/remixer-dec/notifications/master/test.html)
+![test](http://spicausis.lv/misc/paypal-donate.gif)
