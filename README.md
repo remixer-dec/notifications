@@ -20,8 +20,7 @@ desc (string) - your additional text<br>
 icon (string) - your left icon URL<br>
 secondicon (string) - your right icon URL<br>
 theme (string) - theme (is dark, when here is 'd' parameter), is white in default<br>
-action (function) - function , that runs, when user is clicking at the right icon<br>
-You can use not all the parameters.
+action (function) - function , that runs, when user is clicking at the notification (in 1.2- versions at the right icon)<br>
+You can use not all the parameters. (you can use "undefined" to skip some parameters)
 ###demo
 [view demo](https://rawgit.com/remixer-dec/notifications/master/test.html)
-

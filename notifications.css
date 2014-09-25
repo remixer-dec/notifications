@@ -26,7 +26,10 @@
       font-size:16px;
       font-weight:200;
       font-variant:normal;
-      padding-top:4px;
+      margin:4px 4px 0 40px;
+      font-size:16px;
+      line-height:16px;
+      height:auto;
       }
 .NotyW img{
       position:absolute;
